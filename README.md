@@ -1,2 +1,3 @@
 # salut-les-amis
 mes débuts avec github
+nouveau pour apprendre à coder web javascript et autres...
